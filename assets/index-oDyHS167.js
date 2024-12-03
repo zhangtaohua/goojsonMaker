@@ -1,1 +1,0 @@
-import{d as a,r as s,h as e,j as o,o as t,_ as d}from"./index-4VbVOGIH.js";const n={key:0,class:"home_container"},r=d(a({__name:"index",setup(a){const d=s(!1);return(a,s)=>d.value?(t(),e("div",n)):o("",!0)}}),[["__scopeId","data-v-435d4c87"]]);export{r as default};
